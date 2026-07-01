@@ -8,4 +8,4 @@
 -https://github.com/thammarat9545-bot/select-topcic-basic-git/blob/main/Myname.md
  
 ## Course
--วิชาหัวข้อพิเศษทางด้านการพัฒนาซอร์ฟแวร์ ปีการศึกษา2569
+-วิชาหัวข้อพิเศษทางด้านการพัฒนาซอร์ฟแวร์ ภาคเรียนที่1 ปีการศึกษา2569
