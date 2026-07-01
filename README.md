@@ -5,7 +5,7 @@
 -สร้างขึ้นเพื่อ ทำงาน,เก็บงาน,ส่งงานในรายวิชาหัวข้อพิเศษทางด้านการพัฒนาซอร์ฟแวร์
  
 ## Owner
--https://github.com/thammarat9545-bot/select-topcic-basic-git/blob/main/Myname.md
+[ลิงก์ไปยังไฟล์ Myname.md](https://github.com/thammarat9545-bot/select-topcic-basic-git/blob/main/Myname.md)
  
 ## Course
 -วิชาหัวข้อพิเศษทางด้านการพัฒนาซอร์ฟแวร์ ภาคเรียนที่1 ปีการศึกษา2569
